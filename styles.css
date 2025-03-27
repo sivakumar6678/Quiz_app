@@ -1,6 +1,6 @@
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background-image: url('/images/background-image.jpg'); /* Add your background image path */
+  background-image: url('./assets/background-image.jpg'); /* Add your background image path */
   background-size: cover; /* Cover the entire background */
   background-position: center; /* Center the background image */
   color: #333;
@@ -254,4 +254,19 @@ h1, h2, h3 {
 #hint-btn.btn-warning {
   background-color: #ffc107 !important; /* Yellow color for hint */
   color: white !important;
+}
+
+footer {
+  text-align: center;
+  color: gold;
+  font-size: 16px;
+  font-weight: 600;
+  padding: 10px 0;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+footer p{
+  color: gold;
+  text-shadow: 0 0 20px 20px rgb(2, 154, 255);
 }

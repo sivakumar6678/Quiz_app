@@ -56,7 +56,7 @@ An interactive quiz application that allows users to test their knowledge across
 
 Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
 
-Acknowledgments
+## Acknowledgments
 
 - [Bootstrap](https://getbootstrap.com/) for the responsive design framework.
 - [Font Awesome](https://fontawesome.com/) for the icons used in the application.
